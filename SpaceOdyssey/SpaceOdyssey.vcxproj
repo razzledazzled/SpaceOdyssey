@@ -143,7 +143,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="MovingObject.cpp" />
+    <ClCompile Include="Rocket.cpp" />
     <ClCompile Include="SpaceOdyssey.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MovingObject.h" />
+    <ClInclude Include="Rocket.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

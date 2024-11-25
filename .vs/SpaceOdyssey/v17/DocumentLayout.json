@@ -5,6 +5,22 @@
     {
       "AbsoluteMoniker": "D:0:0:{930BC641-8649-4E52-9F13-470AB79BE23F}|SpaceOdyssey\\SpaceOdyssey.vcxproj|C:\\Users\\aharris\\source\\repos\\SpaceOdyssey\\SpaceOdyssey\\SpaceOdyssey.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{930BC641-8649-4E52-9F13-470AB79BE23F}|SpaceOdyssey\\SpaceOdyssey.vcxproj|solutionrelative:SpaceOdyssey\\SpaceOdyssey.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{930BC641-8649-4E52-9F13-470AB79BE23F}|SpaceOdyssey\\SpaceOdyssey.vcxproj|C:\\Users\\aharris\\source\\repos\\SpaceOdyssey\\SpaceOdyssey\\Rocket.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{930BC641-8649-4E52-9F13-470AB79BE23F}|SpaceOdyssey\\SpaceOdyssey.vcxproj|solutionrelative:SpaceOdyssey\\Rocket.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{930BC641-8649-4E52-9F13-470AB79BE23F}|SpaceOdyssey\\SpaceOdyssey.vcxproj|C:\\Users\\aharris\\source\\repos\\SpaceOdyssey\\SpaceOdyssey\\Rocket.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{930BC641-8649-4E52-9F13-470AB79BE23F}|SpaceOdyssey\\SpaceOdyssey.vcxproj|solutionrelative:SpaceOdyssey\\Rocket.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{930BC641-8649-4E52-9F13-470AB79BE23F}|SpaceOdyssey\\SpaceOdyssey.vcxproj|C:\\Users\\aharris\\source\\repos\\SpaceOdyssey\\SpaceOdyssey\\MovingObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{930BC641-8649-4E52-9F13-470AB79BE23F}|SpaceOdyssey\\SpaceOdyssey.vcxproj|solutionrelative:SpaceOdyssey\\MovingObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{930BC641-8649-4E52-9F13-470AB79BE23F}|SpaceOdyssey\\SpaceOdyssey.vcxproj|C:\\Users\\aharris\\source\\repos\\SpaceOdyssey\\SpaceOdyssey\\MovingObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{930BC641-8649-4E52-9F13-470AB79BE23F}|SpaceOdyssey\\SpaceOdyssey.vcxproj|solutionrelative:SpaceOdyssey\\MovingObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,12 +30,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 198,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:2:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,10 +40,71 @@
               "RelativeDocumentMoniker": "SpaceOdyssey\\SpaceOdyssey.cpp",
               "ToolTip": "C:\\Users\\aharris\\source\\repos\\SpaceOdyssey\\SpaceOdyssey\\SpaceOdyssey.cpp",
               "RelativeToolTip": "SpaceOdyssey\\SpaceOdyssey.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAkAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-25T16:55:01.592Z",
+              "IsPinned": true,
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovingObject.cpp",
+              "DocumentMoniker": "C:\\Users\\aharris\\source\\repos\\SpaceOdyssey\\SpaceOdyssey\\MovingObject.cpp",
+              "RelativeDocumentMoniker": "SpaceOdyssey\\MovingObject.cpp",
+              "ToolTip": "C:\\Users\\aharris\\source\\repos\\SpaceOdyssey\\SpaceOdyssey\\MovingObject.cpp",
+              "RelativeToolTip": "SpaceOdyssey\\MovingObject.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-25T17:56:41.318Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovingObject.h",
+              "DocumentMoniker": "C:\\Users\\aharris\\source\\repos\\SpaceOdyssey\\SpaceOdyssey\\MovingObject.h",
+              "RelativeDocumentMoniker": "SpaceOdyssey\\MovingObject.h",
+              "ToolTip": "C:\\Users\\aharris\\source\\repos\\SpaceOdyssey\\SpaceOdyssey\\MovingObject.h",
+              "RelativeToolTip": "SpaceOdyssey\\MovingObject.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-25T18:03:13.356Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rocket.h",
+              "DocumentMoniker": "C:\\Users\\aharris\\source\\repos\\SpaceOdyssey\\SpaceOdyssey\\Rocket.h",
+              "RelativeDocumentMoniker": "SpaceOdyssey\\Rocket.h",
+              "ToolTip": "C:\\Users\\aharris\\source\\repos\\SpaceOdyssey\\SpaceOdyssey\\Rocket.h",
+              "RelativeToolTip": "SpaceOdyssey\\Rocket.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-25T18:04:01.873Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rocket.cpp",
+              "DocumentMoniker": "C:\\Users\\aharris\\source\\repos\\SpaceOdyssey\\SpaceOdyssey\\Rocket.cpp",
+              "RelativeDocumentMoniker": "SpaceOdyssey\\Rocket.cpp",
+              "ToolTip": "C:\\Users\\aharris\\source\\repos\\SpaceOdyssey\\SpaceOdyssey\\Rocket.cpp",
+              "RelativeToolTip": "SpaceOdyssey\\Rocket.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-25T18:04:22.875Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
             }
           ]
         }
